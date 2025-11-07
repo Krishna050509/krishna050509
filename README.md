@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Tellamekala Hari Krishna  
 
 🎓 **B.E in Computer Science and Engineering (2025)** | SIMATS Engineering, Chennai  
-📧 **Email:** [harikrishnahari89624@gmail.com](mailto:harikrishnahari89624@gmail.com)  
+📧 **Email:** [harikrishnahari89624@gmail.com](mailto:harikrishnahari89620@gmail.com)  
 📱 **Phone:** +91-7093849918  
 🔗 **LinkedIn:** [linkedin.com/in/tellamekala-hari-krishna-111a482a8](https://www.linkedin.com/in/tellamekala-hari-krishna-111a482a8)  
-💻 **GitHub:** [github.com/krishna0514](https://github.com/krishna0514)  
+💻 **GitHub:** [github.com/krishna0514](https://github.com/krishna050509)  
 
 ---
 
@@ -76,8 +76,8 @@ To leverage my skills and knowledge in contributing to the success of an organiz
 
 ## 📊 GitHub Stats  
 
-![Hari Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna0514&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna0514&layout=compact&theme=tokyonight)
+![Hari Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna050509&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna050509&layout=compact&theme=tokyonight)
 
 ---
 
