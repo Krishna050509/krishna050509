@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Tellamekala Hari Krishna  
 
 🎓 **B.E in Computer Science and Engineering (2025)** | SIMATS Engineering, Chennai  
-📧 **Email:** [harikrishnahari89624@gmail.com](mailto:harikrishnahari89620@gmail.com)  
+📧 **Email:** [harikrishnahari89620@gmail.com](mailto:harikrishnahari89620@gmail.com)  
 📱 **Phone:** +91-7093849918  
 🔗 **LinkedIn:** [linkedin.com/in/tellamekala-hari-krishna-111a482a8](https://www.linkedin.com/in/tellamekala-hari-krishna-111a482a8)  
 💻 **GitHub:** [github.com/krishna050509](https://github.com/krishna050509)  
