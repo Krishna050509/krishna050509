@@ -4,7 +4,7 @@
 📧 **Email:** [harikrishnahari89624@gmail.com](mailto:harikrishnahari89620@gmail.com)  
 📱 **Phone:** +91-7093849918  
 🔗 **LinkedIn:** [linkedin.com/in/tellamekala-hari-krishna-111a482a8](https://www.linkedin.com/in/tellamekala-hari-krishna-111a482a8)  
-💻 **GitHub:** [github.com/krishna0514](https://github.com/krishna050509)  
+💻 **GitHub:** [github.com/krishna050509](https://github.com/krishna050509)  
 
 ---
 
