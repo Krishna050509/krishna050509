@@ -1,6 +1,4 @@
-Below is a **Data Scientist–focused version** of your GitHub/portfolio README. I adjusted it to highlight **Machine Learning, Regression, Classification, EDA, and Python tools**, which is important for **Data Scientist roles**.
 
----
 
 # 👋 Hi there, I'm Tellamekala Hari Krishna
 
