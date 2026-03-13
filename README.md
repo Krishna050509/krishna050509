@@ -1,84 +1,186 @@
-# 👋 Hi there, I'm Tellamekala Hari Krishna  
-
-🎓 **B.E in Computer Science and Engineering (2025)** | SIMATS Engineering, Chennai  
-📧 **Email:** [harikrishnahari89620@gmail.com](mailto:harikrishnahari89620@gmail.com)  
-📱 **Phone:** +91-7093849918  
-🔗 **LinkedIn:** [linkedin.com/in/tellamekala-hari-krishna-111a482a8](https://www.linkedin.com/in/tellamekala-hari-krishna-111a482a8)  
-💻 **GitHub:** [github.com/krishna050509](https://github.com/krishna050509)  
+Below is a **Data Scientist–focused version** of your GitHub/portfolio README. I adjusted it to highlight **Machine Learning, Regression, Classification, EDA, and Python tools**, which is important for **Data Scientist roles**.
 
 ---
 
-## 🎯 Career Objective  
-To leverage my skills and knowledge in contributing to the success of an organization and to work on innovative projects that challenge and enhance my abilities.
+# 👋 Hi there, I'm Tellamekala Hari Krishna
+
+🎓 **B.E in Computer Science and Engineering (2025)** | SIMATS Engineering, Chennai
+📧 **Email:** [harikrishnahari89620@gmail.com](mailto:harikrishnahari89620@gmail.com)
+📱 **Phone:** +91-7093849918
+🔗 **LinkedIn:** [https://linkedin.com/in/tellamekala-hari-krishna-111a482a8](https://linkedin.com/in/tellamekala-hari-krishna-111a482a8)
+💻 **GitHub:** [https://github.com/krishna050509](https://github.com/krishna050509)
 
 ---
 
-## 🎓 Academics  
-| Qualification | Institution | Year | Score |
-|----------------|-------------|------|-------|
-| B.E - CSE | SIMATS Engineering, Chennai | 2025 | GPA: 8.6* |
-| Intermediate (M.P.C) | S.A.V & N.V.J.R Jr. College, Jaggayyapeta | 2021 | 93.2% |
-| S.S.C | Narayana E-Techno School, Jaggayyapeta | 2019 | GPA: 9.5 |
+# 🎯 Career Objective
+
+Aspiring **Data Scientist / Machine Learning Engineer** with strong foundations in **statistics, machine learning, and data analysis**. Skilled in building **regression and classification models**, performing **exploratory data analysis**, and developing **data-driven solutions** using Python. Seeking opportunities to apply machine learning techniques to solve real-world problems.
 
 ---
 
-## 🧠 Skills Summary  
+# 🎓 Education
 
-**💻 Programming Languages:** Python, Java, SQL, HTML, CSS  
-**🧩 Frameworks:** Flutter, Figma  
-**📊 Libraries/Tools:** NumPy, Pandas, Matplotlib, Seaborn, Power BI  
-**🛠️ Platforms:** MySQL, Jupyter Notebook, Visual Studio Code, Postman  
-
----
-
-## 💼 Work Experience  
-
-### 🩺 **Project Developer — Defreeze Shoulder (Nov 2024 – Apr 2025)**  
-- Developed a **cross-platform healthcare mobile app** for managing shoulder arthroscopy recovery.  
-- Collaborated with a doctor to define requirements and designed detailed **Figma prototypes**.  
-- Built the **frontend in Flutter**, connected backend via **PHP + MySQL**, and tested APIs using **Postman**.  
-- Added **role-based dashboards** (Admin, Doctor, Patient), integrated charts, videos, WhatsApp consultations, and appointment modules.  
-- ✅ Completed the project in 5 months, gaining strong experience in **Flutter, PHP, MySQL, API integration**, and **testing**.
+| Qualification                              | Institution                 | Year | Score    |
+| ------------------------------------------ | --------------------------- | ---- | -------- |
+| **B.E – Computer Science and Engineering** | SIMATS Engineering, Chennai | 2025 | GPA: 8.6 |
+| Intermediate (MPC)                         | S.A.V & N.V.J.R Jr. College | 2021 | 93.2%    |
+| SSC                                        | Narayana E-Techno School    | 2019 | GPA: 9.5 |
 
 ---
 
-## 🚀 Projects  
+# 🧠 Data Science Skills
 
-### ❤️ Prediction of Heart Diseases using Machine Learning Algorithms (Jan 2024)  
-- Built an ML model to predict heart disease likelihood using patient data.  
-- Used **Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn**.  
-- Implemented **Naïve Bayes, Logistic Regression, Random Forest, XGBoost**.  
-- Achieved **90.72% accuracy** using Naïve Bayes after data preprocessing and feature scaling.  
+### Programming
 
-### 🩻 Defreeze Shoulder – Healthcare App (Nov 2024)  
-- Developed an app for Android/iOS to support **post-surgery recovery**.  
-- Included **weekly questionnaires, educational videos**, and doctor alerts based on patient scores.  
-- Tech Stack: **Flutter, PHP, MySQL, Postman**
+Python, SQL, Java
+
+### Data Analysis & Visualization
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+
+### Machine Learning
+
+* Regression Algorithms
+
+  * Linear Regression
+  * Multiple Linear Regression
+  * Polynomial Regression
+  * Decision Tree Regression
+  * Random Forest Regression
+  * Support Vector Regression
+
+* Classification Algorithms
+
+  * Logistic Regression
+  * K-Nearest Neighbors (KNN)
+  * Naive Bayes
+  * Support Vector Machine (SVM)
+  * Decision Tree
+  * Random Forest
+
+### Machine Learning Concepts
+
+* Feature Engineering
+* Feature Scaling
+* Bias-Variance Tradeoff
+* Overfitting & Underfitting
+* Cross Validation
+* Hyperparameter Tuning
+* Model Evaluation Metrics
+
+### Tools & Platforms
+
+Jupyter Notebook
+Visual Studio Code
+MySQL
+Postman
+Git & GitHub
 
 ---
 
-## 🏅 Certifications  
+# 📊 Machine Learning Projects
 
-| Certificate | Organization | Completion Date |
-|--------------|---------------|------------------|
-| Java Course – Mastering the Fundamentals | Scaler Topics | Apr 2, 2025 |
-| SQL and Relational Databases | IBM | Apr 1, 2025 |
-| Python Course for Beginners – Mastering the Essentials | Scaler Topics | Jul 24, 2024 |
+## ❤️ Heart Disease Prediction using Machine Learning
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+Built a machine learning model to predict the likelihood of heart disease using patient medical data.
+
+Key steps:
+
+* Data preprocessing and cleaning
+* Exploratory Data Analysis (EDA)
+* Feature scaling using StandardScaler
+* Model training and evaluation
+
+Algorithms used:
+
+* Logistic Regression
+* KNN
+* Support Vector Machine
+* Naive Bayes
+* Decision Tree
+* Random Forest
+
+🏆 Achieved **90.72% accuracy using Naive Bayes**.
 
 ---
 
-## 🧭 Future Goals  
-- 🔍 Learn advanced concepts in **Machine Learning** and **Data Visualization**  
-- 📈 Work on real-time **Data Analytics** projects using **Power BI**  
-- 🤝 Contribute to open-source projects in **Python** and **Healthcare Technology**
+## 🚨 Scam Message Classifier (NLP Project)
+
+Built a machine learning model to detect whether a message is **scam or legitimate**.
+
+Key techniques:
+
+* Text preprocessing
+* Tokenization
+* Feature extraction using **CountVectorizer and TF-IDF**
+* Training classification models for text data
+
+Algorithms used:
+
+* Naive Bayes
+* Logistic Regression
+* SVM
+
+Goal: Automatically classify suspicious messages for **fraud detection and spam filtering**.
 
 ---
 
-## 📊 GitHub Stats  
+# 💼 Software Development Project
 
-![Hari Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna050509&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna050509&layout=compact&theme=tokyonight)
+## 🩺 Defreeze Shoulder – Healthcare Mobile App
+
+Developed a **cross-platform healthcare mobile application** for patients recovering from shoulder arthroscopy surgery.
+
+Technologies:
+Flutter, PHP, MySQL, Postman
+
+Features:
+
+* Patient progress monitoring
+* Weekly questionnaires
+* Exercise video modules
+* Doctor dashboard for patient tracking
+* Appointment and consultation system
 
 ---
 
-⭐ *“Code with purpose, build with passion.”* ⭐
+# 🏅 Certifications
+
+| Certificate                  | Organization  | Date     |
+| ---------------------------- | ------------- | -------- |
+| Java Fundamentals            | Scaler Topics | Apr 2025 |
+| SQL and Relational Databases | IBM           | Apr 2025 |
+| Python for Beginners         | Scaler Topics | Jul 2024 |
+
+---
+
+# 🎯 Career Goals
+
+* Build strong expertise in **Machine Learning and Data Science**
+* Work on **real-world predictive analytics projects**
+* Develop scalable **AI/ML solutions for healthcare and fraud detection**
+* Contribute to **open-source data science projects**
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna050509\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna050509\&layout=compact\&theme=tokyonight)
+
+---
+
+⭐ *“Turning data into insights and building intelligent solutions.”* ⭐
+
+---
+
+✅ This version is **optimized for Data Scientist / ML Engineer roles**.
+
+If you want, I can also give you a **much stronger version (FAANG-level GitHub profile README)** that makes recruiters immediately notice your profile.
