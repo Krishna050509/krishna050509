@@ -175,12 +175,4 @@ Features:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna050509\&layout=compact\&theme=tokyonight)
 
----
 
-⭐ *“Turning data into insights and building intelligent solutions.”* ⭐
-
----
-
-✅ This version is **optimized for Data Scientist / ML Engineer roles**.
-
-If you want, I can also give you a **much stronger version (FAANG-level GitHub profile README)** that makes recruiters immediately notice your profile.
